@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Hui Ren, an undergraduate student at ShanghaiTech University, majoring in Computer Science.
+This is Hui Ren, an undergraduate student, majoring in Computer Science.
 
 And an exchange student at Massachusetts Institute of Technology (MIT) in Spring 2024.
 
