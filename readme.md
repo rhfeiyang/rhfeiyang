@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Hui Ren, an CS PhD student @ UIUC
+This is Hui Ren, a CS PhD student @ UIUC
 
 And an exchange student at Massachusetts Institute of Technology (MIT) in Spring 2024.
 
